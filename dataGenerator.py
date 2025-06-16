@@ -21,7 +21,22 @@ tickerNames = {
     "IVV": "S&P 500 Total Return",
     "BIZD": "Private Equity (BIZD)",
     "VPC": "Private Debt (VPC)",
-    "GBTC": "Bitcoin"
+    "GBTC": "Bitcoin",
+    "DFAC": "Dimensional US Core Equity 2 ETF",
+    "DFAX": "Dimensional World ex US Core Equity 2 ETF",
+    "SGIIX": "First Eagle Global Fund",
+    "DUHP": "Dimensional US High Profitability ETF",
+    "QQQM": "Invesco NASDAQ 100 ETF",
+    "BPTIX": "Baron Partners Fund",
+    "CPIEX": "Counterpoint Tactical Equity I",
+    "DFAT": "Dimensional US Targeted Value ETF",
+    "GSMIX": "Goldman Sachs GQG Partners International Opportunities Fund",
+    "PTSNX": "PIMCO Short Term I-3",
+    "MQLIX": "MFS Limited Maturity I",
+    "PIPNX": "PIMCO Income I-3",
+    "GIUSX": "Guggenheim Core Bond Fund Institutional",
+    "CPITX": "Counterpoint Tactical Income I"
+
 }
 tickerTo_fetch = list(tickerNames.keys())
 period = "10y"
